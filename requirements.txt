@@ -6,3 +6,5 @@ pandas
 scipy
 tensorflow
 uvicorn[standard]
+fastapi
+python-multipart
